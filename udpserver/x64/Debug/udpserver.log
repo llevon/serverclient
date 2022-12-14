@@ -1,0 +1,3 @@
+﻿  MainServer.cpp
+C:\Users\levon\OneDrive\Desktop\netproj2022\src\MainServer.cpp(52,13): warning C4101: 'dd': unreferenced local variable
+  udpserver.vcxproj -> C:\Users\levon\OneDrive\Desktop\netproj2022\x64\Debug\udpserver.exe
